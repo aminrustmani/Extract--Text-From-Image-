@@ -66,5 +66,7 @@ This project is licensed under the MIT License.
 
 # 📬 Contact
 For any queries or collaborations, reach out at:
+
 📧 Email: muhammadaminrustmani@gmail.com
+
 🔗 GitHub: https://github.com/aminrustmani
